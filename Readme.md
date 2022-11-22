@@ -4,9 +4,9 @@ de um curso de extensão de Python básico pelo sitema Ânima.
 No exercicio 1 foi proposto que o usuário fornecesse três numeros (x, y e z)
 e o programa imprimisse na tela:
 
-a) x + y
-b) x **z
-c) x - y - z
+a) x + y <br>
+b) x **z <br>
+c) x - y - z <br>
 
 No exercicio 2 foi proposto que fosse feito um programa que recebe do usuário um número e informa
 se este número é par ou impar, positivo ou negativo.
