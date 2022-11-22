@@ -1,3 +1,5 @@
+# Faça um Programa que leia 1 número e, em seguida, informe ao usuário se o número é: Par ou ímpar e Positivo ou negativo
+
 n1 = int(input("Digite um numero: "))
 parimpar = n1 % 2
 
