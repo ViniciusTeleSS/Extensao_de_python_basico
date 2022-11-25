@@ -1,5 +1,5 @@
 # TESTE DE LOGIN
-""" login = 'Vinicius'
+login = 'Vinicius'
 senha = '123'
 contador = 3
 
@@ -22,7 +22,7 @@ while True:
         else:
             print('Acesso bloqueado!')
             break
- """
+
 
 # TESTE DE TABUADA
 '''num = int(input('Digite um numero de 1 a 10 para saber sua tabuada: '))
